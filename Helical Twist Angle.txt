@@ -1,0 +1,14 @@
+		 360 * Height * TanB
+Angle = ----------------------------------
+	  Module * Number of Teeth * Pi
+
+
+
+Height (gear thickness)
+TanB (B is the helix angle; between upright tooth and slanted tooth eg |/ )
+   --> In other words, the angle at which you want the gears to intersect
+   --> For perpendicular gears B will be 45 degrees, therefore TanB will be 1
+Module (pitch diameter / number of teeth)
+
+You may need to halve the resulting angle for the twist function in Fusion 360,
+	height sometimes only comes out as half of what you call for.
