@@ -24,7 +24,7 @@ This project is focused on delivering a more immersive and mechanically faithful
 - **Arduino (Uno/Nano/etc.)** for reading sensor input.
 - **Hall Effect Sensors (e.g., A3144, SS495A1)** for detecting axis movement.
 - **3D CAD** for component design (Fusion 360).
-- **FDM 3D Printer** this project is using a Vivedino T-Rex 3+.
+- **FDM 3D Printer** this project was developed with an FDM 3D printer in mind for making physical components. All necessary parts should fit in a 200mm x 200mm print bed.
 
 ## Customization
 
