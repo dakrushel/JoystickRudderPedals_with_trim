@@ -30,14 +30,14 @@ This project is focused on delivering a more immersive and mechanically faithful
 
 This design is open for experimentation:
 - Adjust trim resistance or centering forces with different springs or electromagnets in the future.
-- Adapt to different form factors or simulators.
-- Expand with scale to permanent-installation cockpit,
+- Adapt to different form factors or simulators eg. implement a collective for rotary wing simulations
+- Expand with scale to a permanent-installation cockpit,
 - Collective helicopter simulation is in early design and will be uploaded in the future
 
 ## Goals
 
 - Deliver an **affordable** but **high-fidelity** home cockpit experience.
-- Provide a **realistic trim system** that is often missing in consumer-grade ancillaries.
+- Provide a **satisfactory trim system** that allows pilots to practice proper trimming techniques in a flight simulator.
 - Keep everything **open-source** and easy to replicate.
 
 ## Build and Setup
