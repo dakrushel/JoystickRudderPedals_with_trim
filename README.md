@@ -1,13 +1,13 @@
 # Joystick & Rudder Pedals with Realistic Trim System
 
-Welcome to the repository for my custom-designed **joystick and rudder pedal system**, built with 3D-printed components and a more **realistic trim system** aimed at flight sim enthusiasts, hobbyists, and DIY cockpit builders.
+Welcome to the repository for my custom-designed **joystick and rudder pedal system**, built with 3D-printed components and a **realistic trim system** aimed at student pilots, flight sim enthusiasts, and hobbyists.
 
 ## Project Overview
 
 This project is focused on delivering a more immersive and mechanically faithful flight control experience. The key features include:
 
 - **Acceptable Trim System** – Allows pilots to "trim off control pressures" as they would in a real aircraft.
-- **Hall Effect Sensor Input** – Uses hall sensors for smooth, precise control with minimal wear.
+- **Hall Effect Sensor Input** – Uses hall effect sensors for smooth, precise control with minimal wear.
 - **3D-Printable** – All mechanical components are either 3D printable on most standard FDM printers or available at hardware stores or amazon.
 - **Arduino-Based Electronics** – Design goals include easy setup and future implementation of portable version with 2.4GHz transmitter for use with quadcopter and R/C airplanes.
 
@@ -21,22 +21,21 @@ This project is focused on delivering a more immersive and mechanically faithful
 
 ## Technologies Used
 
-- **Arduino (Uno/Nano/etc.)** for reading sensor input.
-- **Hall Effect Sensors (e.g., A3144, SS495A1)** for detecting axis movement.
+- **Arduino Micro** for reading sensor input.
+- **Linear Hall Effect Sensors (SS49E)** for detecting axis movement.
 - **3D CAD** for component design (Fusion 360).
-- **FDM 3D Printer** this project was developed with an FDM 3D printer in mind for making physical components. All necessary parts should fit in a 200mm x 200mm print bed.
+- **FDM 3D Printer** this project was developed with an FDM 3D printer in mind for making physical components. All necessary parts fit on a 200mm x 200mm print bed.
 
 ## Customization
 
 This design is open for experimentation:
-- Adjust trim resistance or centering forces with different springs or electromagnets in the future.
+- Adjust control forces with different springs or electromagnets in the future.
 - Adapt to different form factors or simulators eg. implement a collective for rotary wing simulations
 - Expand with scale to a permanent-installation cockpit,
-- Collective helicopter simulation is in early design and will be uploaded in the future
 
 ## Goals
 
-- Deliver an **affordable** but **high-fidelity** home cockpit experience.
+- Deliver an **affordable** (approximately $250 CA in parts) but **high-fidelity** home cockpit experience.
 - Provide a **satisfactory trim system** that allows pilots to practice proper trimming techniques in a flight simulator.
 - Keep everything **open-source** and easy to replicate.
 
