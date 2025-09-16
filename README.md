@@ -25,6 +25,7 @@ This project is focused on delivering a more immersive and mechanically faithful
 - **Linear Hall Effect Sensors (SS49E)** for detecting axis movement.
 - **3D CAD** for component design (Fusion 360).
 - **FDM 3D Printer** this project was developed with an FDM 3D printer in mind for making physical components. All necessary parts fit on a 200mm x 200mm print bed.
+- **Joystick Library** This project uses MHeironimus' joystick library which you'll need to download from here: https://github.com/MHeironimus/ArduinoJoystickLibrary
 
 ## Customization
 
