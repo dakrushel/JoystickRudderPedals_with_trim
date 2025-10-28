@@ -1,4 +1,5 @@
 # Joystick & Rudder Pedals with Realistic Trim System
+# *** Huge Update Incoming! Evaluation Version For Code and Models ***
 
 Welcome to the repository for my custom-designed **joystick and rudder pedal system**, built with 3D-printed components and a **realistic trim system** aimed at student pilots, flight sim enthusiasts, and hobbyists.
 
